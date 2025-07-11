@@ -16,3 +16,4 @@ data/*.xlsx
 .env
 venv/
 .envrc
+src/
